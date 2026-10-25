@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nama": "Ahmad Rizki",
+        "no_kamar": "A-01",
+        "periode": "2026-10",
+        "jumlah": 1200000,
+        "jatuh_tempo": "2026-10-15",
+        "status": "Lunas"
+    },
+    {
+        "id": 2,
+        "nama": "Siti Putri",
+        "no_kamar": "B-01",
+        "periode": "2026-10",
+        "jumlah": 1800000,
+        "jatuh_tempo": "2026-10-18",
+        "status": "Lunas"
+    },
+    {
+        "id": 3,
+        "nama": "Budi Wibowo",
+        "no_kamar": "C-02",
+        "periode": "2026-10",
+        "jumlah": 2500000,
+        "jatuh_tempo": "2026-10-10",
+        "status": "Lunas"
+    },
+    {
+        "id": 4,
+        "nama": "yanto",
+        "no_kamar": "Z-03",
+        "periode": "2026-10",
+        "jumlah": 2000000,
+        "jatuh_tempo": "2026-11-07",
+        "status": "Belum Bayar"
+    }
+]

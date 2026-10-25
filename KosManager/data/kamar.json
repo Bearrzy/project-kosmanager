@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "no_kamar": "A-01",
+        "tipe": "Standar",
+        "harga": 1200000,
+        "fasilitas": "AC, Kamar Mandi Dalam",
+        "status": "Terisi"
+    },
+    {
+        "id": 3,
+        "no_kamar": "B-01",
+        "tipe": "VIP",
+        "harga": 1800000,
+        "fasilitas": "AC, KM Dalam, WiFi, TV",
+        "status": "Terisi"
+    },
+    {
+        "id": 4,
+        "no_kamar": "B-02",
+        "tipe": "VIP",
+        "harga": 1800000,
+        "fasilitas": "AC, KM Dalam, WiFi, TV",
+        "status": "Kosong"
+    },
+    {
+        "id": 5,
+        "no_kamar": "C-01",
+        "tipe": "Deluxe",
+        "harga": 2500000,
+        "fasilitas": "AC, KM Dalam, WiFi, TV, Kulkas",
+        "status": "Maintenance"
+    },
+    {
+        "id": 6,
+        "no_kamar": "C-02",
+        "tipe": "Deluxe",
+        "harga": 2500000,
+        "fasilitas": "AC, KM Dalam, WiFi, TV, Kulkas",
+        "status": "Terisi"
+    },
+    {
+        "id": 7,
+        "no_kamar": "Z-03",
+        "tipe": "VIP",
+        "harga": 2000000,
+        "fasilitas": "AC, Kamar mandi dalam, wifi, ps5",
+        "status": "Terisi"
+    }
+]
